@@ -1,0 +1,15 @@
+#A'int markup language
+# Super set of JSON
+# List
+customerName: Bharath
+orderId: 123
+date: 12/12/2022
+shipped: false
+moreData: null
+products:
+  - name: macBook
+  - name: iPhone
+  - name: Desktop
+address: 
+  stree: SpringField
+  city: Austin
